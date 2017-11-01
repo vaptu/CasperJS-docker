@@ -3,6 +3,7 @@ CasperJS is a navigation scripting & testing utility for PhantomJS and SlimerJS 
 
  Navigation scripting and testing utility for PhantomJS and SlimerJS http://casperjs.org/
   
+docker hub: https://hub.docker.com/r/vaptu/casperjs/
 
 ## Casperjs released
 *  1.1.4 (latest)
